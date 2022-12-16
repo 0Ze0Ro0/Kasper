@@ -805,7 +805,7 @@ header nav .toggle-menu {
 @media (max-width: 767px) {
   .about img {
     bottom: -60px;
-    margin-top: -40px;
+    margin-top: -50px;
   }
 }
 /* End About */
