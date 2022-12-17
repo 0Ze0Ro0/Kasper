@@ -1,4 +1,4 @@
-﻿# Templat-3
+# Templat-3
 
 ## Kasper
 
