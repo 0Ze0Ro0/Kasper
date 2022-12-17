@@ -454,16 +454,19 @@ header nav .toggle-menu {
   .landingSlides .content3 {
     width: 100%;
     padding: 10px;
+    text-align: center;
   }
 
   .landingSlides .content1 .text1,
   .landingSlides .content2 .text2,
   .landingSlides .content3 .text3 {
     width: 100%;
+    padding: 21px;
   }
   .landing i {
-    color: var(--transparent-color);
-    opacity: 0.5;
+    color: #dedfdf;
+    opacity: 1;
+    padding: 0;
   }
 }
 /* End landing */
@@ -708,6 +711,7 @@ header nav .toggle-menu {
     margin: 3px;
     height: 100px;
     box-shadow: 0 0 10px #ddd inset;
+    background-color: #fcfcfc;
   }
   .portfolio .container .card .cardImg {
     width: 100%;
@@ -724,11 +728,13 @@ header nav .toggle-menu {
     font-size: 0.7em;
     font-weight: 600;
     margin-top: 0;
+    padding-left: 3px;
   }
   .portfolio .container .card .details p {
     font-size: 0.6em;
     font-weight: normal;
     padding-top: 3px;
+    padding-left: 4px;
   }
   .portfolio .portfolioMenu ul {
     display: flex;
